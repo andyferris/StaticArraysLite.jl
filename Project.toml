@@ -1,0 +1,8 @@
+name = "StaticArraysLite"
+uuid = "a393d170-cf27-4fc1-a336-04195c05be82"
+authors = ["Andy Ferris <ferris.andy@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Freeze = "5ec2d65f-4743-4a68-a0d2-9e48020e74af"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
